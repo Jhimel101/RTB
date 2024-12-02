@@ -1,0 +1,14 @@
+{
+  "id": "test_bid_request_123",
+  "imp": [
+    {
+      "id": "imp1",
+      "bidfloor": 0.1
+    }
+  ],
+  "device": {
+    "geo": {
+      "country": "Bangladesh"
+    }
+  }
+}
